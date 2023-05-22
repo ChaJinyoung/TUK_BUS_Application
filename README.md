@@ -28,7 +28,7 @@ React-Native 기반의 TUK & Gtec의 통학 버스 스케줄 알림 애플리케
 - [webview](https://github.com/react-native-webview/react-native-webview)
 - [moment.js](https://momentjs.com/)
 - [socket.io-client](https://socket.io/)
-- [async-storage](https://react-native-async-storage.github.io/async-storage/)
+- [react-native-async-storage](https://react-native-async-storage.github.io/async-storage/)
 
 
 ## Screens
