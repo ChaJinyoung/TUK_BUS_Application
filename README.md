@@ -2,7 +2,7 @@
 <img src="./images/AppIcon.png" width=100>
 TUK & Gtec BUS Application with React-Native
 
-- <img src="https://img.shields.io/badge/googlepay-4285F4?style=flat-square&logo=googlepay&logoColor=black"/> [Google Play Link](https://play.google.com/store/apps/details?id=com.tuk_bus&hl=en-KR)
+- <img src="https://img.shields.io/badge/googleplay-414141?style=flat-square&logo=googleplay&logoColor=black"/>  [Google Play Link](https://play.google.com/store/apps/details?id=com.tuk_bus&hl=en-KR)
 
 ## Application Info
 React-Native 기반의 TUK & Gtec의 통학 버스 스케줄 애플리케이션
